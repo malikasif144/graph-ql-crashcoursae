@@ -1,0 +1,17 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
+}
+.header-menu{
+    display: flex;
+}
+.blog{
+    padding-top: 5px;
+}
+.tagline{
+    font-size: 20px;
+    text-transform: uppercase;
+    justify-content: center;
+    font-family: Montserrat;
+}

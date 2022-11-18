@@ -1,0 +1,23 @@
+.text-title{
+    font-size:20px !important;
+    font-family: Montserrat !important ;
+}
+.cover{
+    background-image: url('C:\Users\My-Pc-Dev1\asif\material-ui\src\components\Bg.jpg');
+    background-position: center;
+    padding: 35px 25px;
+}
+.section{
+    display: flex;
+    margin-top: 8px;
+    
+
+}
+.div1{
+    background-color: red;
+    padding: 8px;
+}
+.div2{
+    background-color: blue;
+    padding: 8px;
+}
